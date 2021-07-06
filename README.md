@@ -1,0 +1,2 @@
+# modern-data-visualization
+it is a tool which provide you interactive and user comfort environment to analyze large data and mathematics day to day problems by providing a way to get a data visualization methods (bar graph,scattter graph,pie chart,3-D graph , etc) to analyse and handle data efficiently just provide data values and get efficient data visualazition in just a one click as per user need 
